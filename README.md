@@ -23,5 +23,7 @@ Things you may want to cover:
 
 * ...
 
-abchgsjs
+abchgsjs.asfwefwe
+Typing so that we can make a new commit on the ruby test app_6
+
 
