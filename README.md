@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -28,3 +29,7 @@ Typing so that we can make a new commit on the ruby test app_6
 
 
 ABCDss
+=======
+# test_app_6
+For learning purpose.
+>>>>>>> 15713610dae01da73a5aa47ae04d70d3cda30bc8
